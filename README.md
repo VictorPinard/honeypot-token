@@ -17,7 +17,8 @@ Full tutorial on how to get users to buy your token on https://tokensourcecode.t
 
 #### Types of Tutorials of Smart Contract Code:
 
-* Full tutorial on how to create honeypot token: https://tokensourcecode.top/guides/honeypot_code_1
+* [Full tutorial on how to create honeypot token](https://tokensourcecode.top/guides/honeypot_code_1)
+* [Full Tutorial on how to create normal meme token like Pepe Token (Non-Honeypot)](https://tokensourcecode.top/guides/honeypot_code_2)
 
 #### Types of Tokens Code: 
 
