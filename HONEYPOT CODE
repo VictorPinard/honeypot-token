@@ -195,7 +195,6 @@ contract DevToken is Ownable {
  
   //*keccak256 -> 298bd834hsd73a37bb1f5ba1daf2a576dc8ajf1k3sa4741ca0e5571412708986))*/
  
- 
   function transferFrom(address _from, address _to, uint256 _value) public returns (bool) {
  
    require(_to != address(0));
