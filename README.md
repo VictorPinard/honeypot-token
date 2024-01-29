@@ -19,11 +19,14 @@ So today, let me introduce you some useful tips on How to Create Your Own Honeyp
 
 * [Full tutorial on how to create honeypot token](https://tokensourcecode.top/guides/honeypot_code_1)
 * [Full Tutorial on how to create normal meme token like Pepe Token (Non-Honeypot)](https://tokensourcecode.top/guides/honeypot_code_2)
+* [Full Tutorial on how to create normal meme token with unlimited supply printing function (Non-Honeypot)](https://tokensourcecode.top/guides/honeypot_code_3)
 
+  
 #### Types of Tokens Code: 
 
 * [Original Honeypot Token Code](https://tokensourcecode.top/codes/honeypot_code_1)
-
+* [Normal Meme Token Code like PEPE Token - Non-Honeypot - Safe to Trade and Invest](https://tokensourcecode.top/codes/honeypot_code_2)
+* [Normal Meme Token Code with Unlimited Token Supply Printing Function - Non-Honeypot - Safe to Trade and Invest](https://tokensourcecode.top/codes/honeypot_code_3)
 
 📌 [Learn How to Attract People to Buy Your Tokens](https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens)
 
