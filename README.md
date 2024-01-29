@@ -37,7 +37,7 @@ Here is Victor again, Ethereum smart contract researcher and enthusiast. I got a
 
 📌 [How to Add & Remove Liquidity in Pancakeswap (Binance Smart Chain)](https://tokensourcecode.top/tips/how-to-add-remove-liquidity-in-pancakeswap-binance-smart-chain)
 
-#### You Have Qestions?
+#### Have you qestions?
 [My website](https://tokensourcecode.top)
 
 [Contact me on Telegram](https://t.me/VictorPinard)
