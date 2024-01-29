@@ -9,9 +9,9 @@ So today, let me introduce you some useful tips on How to Create Your Own Honeyp
 ### [Only for research and testing, don’t try to scam using this method]
 
 
-Full tutorial on how to create honeypot token on https://tokensourcecode.top/guides/honeypot_code_1
+[Full tutorial on how to create honeypot token](https://tokensourcecode.top/guides/honeypot_code_1)
 
-Full tutorial on how to get users to buy your token on https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens
+[Full tutorial on how to get users to buy your token](https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens)
 
 
 
@@ -22,9 +22,9 @@ Full tutorial on how to get users to buy your token on https://tokensourcecode.t
 
 #### Types of Tokens Code: 
 
-* Original Honeypot Token Code https://tokensourcecode.top/codes/honeypot_code_1
+* [Original Honeypot Token Code](https://tokensourcecode.top/codes/honeypot_code_1)
 
 
-📌 Learn How to Attract People to Buy Your Tokens: https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens
+📌 [Learn How to Attract People to Buy Your Tokens](https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens)
 
-📌 Learn How Much Liquidity You Should Add & What To Do: https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens
+📌 [Learn How Much Liquidity You Should Add & What To Do](https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens)
