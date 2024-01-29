@@ -29,6 +29,10 @@ Here is Victor again, Ethereum smart contract researcher and enthusiast. I got a
 * [Normal Meme Token Code like PEPE Token - Non-Honeypot - Safe to Trade and Invest](https://tokensourcecode.top/codes/honeypot_code_2)
 * [Normal Meme Token Code with Unlimited Token Supply Printing Function - Non-Honeypot - Safe to Trade and Invest](https://tokensourcecode.top/codes/honeypot_code_3)
 
+#### Knowledge Base
+
 📌 [Learn How to Attract People to Buy Your Tokens](https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens)
 
 📌 [Learn How Much Liquidity You Should Add & What To Do](https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens)
+
+📌 [How to Add & Remove Liquidity in Pancakeswap (Binance Smart Chain)](https://tokensourcecode.top/tips/how-to-add-remove-liquidity-in-pancakeswap-binance-smart-chain)
