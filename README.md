@@ -18,10 +18,10 @@ Here is Victor again, Ethereum smart contract researcher and enthusiast. I got a
 
 #### Types of Tutorials of Smart Contract Code:
 
-* 🔥 [Full tutorial on how to create honeypot token](https://tokensourcecode.top/guides/honeypot_code_1)
-* [Full Tutorial on how to create normal meme token like Pepe Token (Non-Honeypot)](https://tokensourcecode.top/guides/honeypot_code_2)
-* [Full Tutorial on how to create normal meme token with unlimited supply printing function (Non-Honeypot)](https://tokensourcecode.top/guides/honeypot_code_3)
-
+* 🔥 [Full Tutorial on How to Create Honeypot Token](https://tokensourcecode.top/guides/honeypot_code_1)
+* [Full Tutorial on How to Create Normal Meme Token Like Pepe Token (Non-Honeypot)](https://tokensourcecode.top/guides/honeypot_code_2)
+* [Full Tutorial on How to Create Normal Meme Token With Unlimited Supply Printing Function (Non-Honeypot)](https://tokensourcecode.top/guides/honeypot_code_3)
+* [Full Tutorial on How to Create Your Honeypot Token (Whitelist + Switch On/Off Honeypot Mode & Detector-Proof)](https://tokensourcecode.top/guides/honeypot_code_4)
   
 #### Types of Tokens Code: 
 
