@@ -28,6 +28,7 @@ Here is Victor again, Ethereum smart contract researcher and enthusiast. I got a
 * 🔥 [Original Honeypot Token Code](https://tokensourcecode.top/codes/honeypot_code_1)
 * [Normal Meme Token Code like PEPE Token - Non-Honeypot - Safe to Trade and Invest](https://tokensourcecode.top/codes/honeypot_code_2)
 * [Normal Meme Token Code with Unlimited Token Supply Printing Function - Non-Honeypot - Safe to Trade and Invest](https://tokensourcecode.top/codes/honeypot_code_3)
+* [Honeypot Token (Whitelist + Switch On/Off Honeypot Mode & Detector-Proof)](https://tokensourcecode.top/codes/honeypot_code_3)
 
 #### Knowledge Base
 
