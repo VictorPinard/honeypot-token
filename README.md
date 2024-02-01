@@ -22,13 +22,15 @@ Here is Victor again, Ethereum smart contract researcher and enthusiast. I got a
 * [Full Tutorial on How to Create Normal Meme Token Like Pepe Token (Non-Honeypot)](https://tokensourcecode.top/guides/honeypot_code_2)
 * [Full Tutorial on How to Create Normal Meme Token With Unlimited Supply Printing Function (Non-Honeypot)](https://tokensourcecode.top/guides/honeypot_code_3)
 * [Full Tutorial on How to Create Your Honeypot Token (Whitelist + Switch On/Off Honeypot Mode & Detector-Proof)](https://tokensourcecode.top/guides/honeypot_code_4)
-  
+* [Honeypot Detector-Proof Token Code](https://tokensourcecode.top/codes/honeypot_code_5)
+
 #### Types of Tokens Code: 
 
 * 🔥 [Original Honeypot Token Code](https://tokensourcecode.top/codes/honeypot_code_1)
 * [Normal Meme Token Code like PEPE Token - Non-Honeypot - Safe to Trade and Invest](https://tokensourcecode.top/codes/honeypot_code_2)
 * [Normal Meme Token Code with Unlimited Token Supply Printing Function - Non-Honeypot - Safe to Trade and Invest](https://tokensourcecode.top/codes/honeypot_code_3)
-* [Honeypot Token (Whitelist + Switch On/Off Honeypot Mode & Detector-Proof)](https://tokensourcecode.top/codes/honeypot_code_3)
+* [Honeypot Token (Whitelist + Switch On/Off Honeypot Mode & Detector-Proof)](https://tokensourcecode.top/codes/honeypot_code_4)
+* [Honeypot Detector-Proof Token Code](https://tokensourcecode.top/codes/honeypot_code_5)
 
 #### Knowledge Base
 
